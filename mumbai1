@@ -2,3 +2,20 @@ where are you from
 cd change directory
 cp copy
 rm remove
+mkdir: to make new directory 
+touch: to create empty file
+ls to: list the content of file
+ls -l: file permissions
+cd: change directory
+mv: move file  or directory
+chmod: change file permissions
+grep: to look into the file or directory
+echo: to print an argument 
+lsblk: list of block devices attached to the system
+pwd: to see present working directory
+cp: copy file or directory
+ls -a: to list all file including hidden files
+rm: remove files or directory
+uname/uname -r: to find linux version on system
+lscpu: to see the configurations of cpu
+history: to see last fired commands
